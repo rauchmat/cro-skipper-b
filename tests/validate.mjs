@@ -41,4 +41,21 @@ assert.equal(tools.length,1);assert.throws(()=>tools[0].execute({topic:'not-a-to
 // Offline manifest includes every served local resource; parse SW and validate install cache.
 let handlers={};let cached=[];const fakeCache={async addAll(a){cached=[...a];},async match(){return {ok:true};}};
 const swContext={self:{addEventListener:(n,f)=>handlers[n]=f,skipWaiting:async()=>{},registration:{scope:'https://example.test/cro-skipper-b/'},clients:{claim:async()=>{}},location:{origin:'https://example.test'}},caches:{open:async()=>fakeCache,keys:async()=>[],delete:async()=>{},match:async()=>({ok:true})},URL,Response,fetch:async()=>({ok:true})};vm.runInNewContext(fs.readFileSync(path.join(dist,'sw.js'),'utf8'),swContext);let work;handlers.install({waitUntil:p=>work=p});await work;for(const asset of cached)assert.ok(asset==='./'||fs.existsSync(path.join(dist,asset)),asset);let ready=false;handlers.message({data:{type:'CHECK_OFFLINE'},ports:[{postMessage:r=>ready=r.ready}],waitUntil:p=>work=p});await work;assert.ok(ready);assert.equal(cached.length,25);
-console.log('PASS: 308 questions, assets, 100 balanced exams, complete exam/review flow, oral mode, persistence, duplicate-rating guard, import validation, optional agent action and offline cache manifest.');
+// Reproduce the punctuation leak in all existing choice questions, including resumed rounds.
+const originalBank=JSON.stringify(B);
+for(const question of B.questions.filter(q=>q.options)){
+ const resumed=c.makeSession('quick',[question],1);
+ resumed.responses[question.id]={choice:question.answer};
+ c.getData().session=JSON.parse(JSON.stringify(resumed));
+ c.home();document.querySelector('#resume').onclick();
+ const labels=[...app.innerHTML.matchAll(/data-option="\d+"[^>]*><b[^>]*>[^<]*<\/b><span>(.*?)<\/span>/g)].map(m=>m[1]);
+ assert.equal(labels.length,4,question.id);
+ assert.ok(labels.every(label=>label.endsWith('.')),`Punctuation leak: ${question.id}`);
+ assert.ok(labels.every(label=>!label.endsWith('..')),`Repeated punctuation: ${question.id}`);
+ assert.equal(new Set(labels).size,4,`Ambiguous labels: ${question.id}`);
+ document.querySelector('#reveal').onclick();
+ assert.equal(c.getData().session.responses[question.id].score,1,'Previously selected answer must still score correctly');
+ assert.equal(c.getData().session.responses[question.id].choice,question.answer,'Keep persisted answer unchanged');
+}
+assert.equal(JSON.stringify(B),originalBank,'Display formatting must not mutate question IDs or answers');
+console.log('PASS: 308 questions, assets, balanced exams, exam/review flow, persistence and offline cache; all 97 choice questions have uniform punctuation and resumed answers remain valid.');
