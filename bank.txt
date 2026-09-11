@@ -1,0 +1,234 @@
+@Navigation
+5|Wo liest du geografische Breite und Länge auf der Seekarte ab?|Breite am linken oder rechten Rand, Länge am oberen oder unteren Rand.|Breitenkreise verlaufen ost-westlich, Meridiane nord-südlich.
+5|Welche Karte eignet sich besser für ein Hafenmanöver: 1:10.000 oder 1:200.000?|1:10.000.|Der größere Maßstab zeigt auf derselben Papierfläche mehr Einzelheiten.|1:200.000;Beide gleich gut;Der Maßstab spielt keine Rolle
+5|Wie viel entsprechen 2 cm auf einer Karte im Maßstab 1:50.000?|1.000 m.|2 cm × 50.000 = 100.000 cm = 1 km.|100 m;10.000 m;50 m
+5|Warum genügt es nicht, nur eine alte Seekarte an Bord zu haben?|Tiefen, Hindernisse, Betonnung und andere Angaben können sich geändert haben; die Karte muss berichtigt sein.|Prüfe Ausgabe und Berichtigungsstand vor der Nutzung.
+5|Was bedeutet „male korekture“ auf einer kroatischen Seekarte?|Kleine Berichtigungen der Seekarte.|Der Berichtigungsvermerk hilft, den Aktualitätsstand einzuschätzen.
+6|Welche drei Größen bestimmst du bei der Navigation?|Standort, Kurs und Entfernung.|Zusammen ermöglichen sie die Planung und Kontrolle des Weges.
+6|Worauf stützt sich terrestrische Navigation?|Auf Seekarten und sichtbare Landmarken.|Sie unterscheidet sich von Satelliten-, Funk- und astronomischer Navigation.
+6|Welche vier Hilfsmittel brauchst du typischerweise für Kartenarbeit und Peilungen?|Seekarte, Kompass, Navigationsdreieck und Zirkel.|Dreieck und Zirkel dienen zum Übertragen von Richtung und Entfernung.
+6|Was misst ein Lot?|Die Wassertiefe.|Ein Echolot nutzt dazu Schallimpulse.|Windstärke;Geschwindigkeit;Luftdruck
+6|Was misst eine klassische Logge?|Fahrt durchs Wasser.|GPS-Fahrt über Grund kann wegen Strömung davon abweichen.|Luftdruck;Fahrt durch die Luft;Wassertiefe
+7|Wo liegt der Nullmeridian?|In Greenwich.|Längen werden von dort nach Osten oder Westen gezählt.|Am Äquator;Am Nordpol;In Rijeka
+7|In welchem Wertebereich liegt die geografische Breite?|0° bis 90° Nord oder Süd.|Am Äquator beträgt sie 0°, an den Polen 90°.
+7|In welchem Wertebereich liegt die geografische Länge?|0° bis 180° Ost oder West.|Die Richtung E oder W gehört zur vollständigen Angabe.
+7|Wie viele Minuten hat ein Grad und wie viele Sekunden eine Minute?|60 Minuten pro Grad, 60 Sekunden pro Minute.|Grad, Winkelminuten und Winkelsekunden nicht mit Dezimalgraden verwechseln.
+7|Wie lautet 45° 30′ N in Dezimalgrad?|45,5° N.|30 von 60 Minuten ergeben ein halbes Grad.|45,3° N;45,05° N;45,18° N
+7|Welche Angaben fehlen bei „45° 19′, 014° 26′“ für eine eindeutige Position?|Die Hemisphären N oder S sowie E oder W.|Die Zahlen allein legen die Position nicht weltweit eindeutig fest.
+8|Wie lang ist eine internationale Seemeile?|1.852 m.|In der Kartenarbeit entspricht eine Breitenminute näherungsweise einer Seemeile.|1.000 m;1.609 m;185,2 m
+8|An welchem Kartenrand misst du eine Entfernung in Seemeilen?|Am Breitenmaßstab links oder rechts, auf der Breite des betreffenden Gebietes.|Die Längenskala ist dafür ungeeignet.|Am oberen Längenmaßstab;Immer am unteren Rand;An jedem Rand gleich
+8|Welche Eigenschaft der Mercatorkarte erleichtert die Kursplanung?|Linien konstanten Kurses lassen sich als Geraden zeichnen; die Darstellung ist winkeltreu.|Flächen und Maßstab sind dadurch nicht überall gleich.
+8|Warum misst du Distanzen auf einer Mercatorkarte nahe der Breite deiner Route?|Der Maßstab ändert sich mit der geografischen Breite.|Eine weit entfernte Stelle des Breitenrandes kann einen falschen Maßstab liefern.
+9|Was unterscheidet rechtweisend, missweisend und kompassweisend Nord?|Geografischer Norden; magnetischer Norden ohne Schiffseinfluss; vom Schiffskompass angezeigter Norden einschließlich Deviation.|Missweisung und Deviation sind zwei getrennte Korrekturen.
+10|Was ist die Missweisung?|Der örtliche Winkel zwischen geografisch Nord und magnetisch Nord.|Sie ist orts- und zeitabhängig; eine pauschale Kroatien-Zahl genügt nicht.
+11|Was verursacht Deviation?|Schiffseigene magnetische Einflüsse, etwa Metall und elektrische Anlagen.|Der Fehler kann sich mit dem anliegenden Kurs ändern.
+11|Wo findest du die zum Kurs passende Deviation?|In der Deviationstabelle des betreffenden Schiffskompasses.|Die Tabelle eines anderen Bootes ist kein Ersatz.
+10|Übungswert: 2° 10′ E im Jahr 2020, jährliche Zunahme 5′ E. Wie groß ist die Missweisung 2026?|2° 40′ E.|Sechs Jahre × 5′ = 30′; diese zum Ausgangswert addieren.
+11|Kartenkurs 090°, Missweisung 4° E, Deviation 0°: Welchen Kompasskurs steuerst du?|086°.|Von Karte auf Kompass werden östliche Korrekturen abgezogen.|094°;090°;004°
+11|Kompasskurs 120°, Deviation 2° E, Missweisung 3° E: Wie lautet der rechtweisende Kurs?|125°.|Von Kompass auf Karte werden Ostwerte addiert: 120 + 2 + 3.
+11|Kartenkurs 270°, Missweisung 3° W, Deviation 2° E: Welcher Kompasskurs ergibt sich?|271°.|Mit Ost positiv: 270 − (−3) − 2 = 271°.
+12|Wozu dient die Flüssigkeit im Fluidkompass?|Sie dämpft die Bewegung der Kompassrose.|Das erleichtert ruhiges Ablesen bei Schiffsbewegungen.
+12|Womit muss der Steuerstrich des Kompasses ausgerichtet sein?|Mit der Längs- bzw. Kielrichtung des Bootes.|Am Steuerstrich wird der anliegende Kurs abgelesen.
+13|Was bedeutet eine Geschwindigkeit von 6 kn?|6 Seemeilen pro Stunde.|Knoten ist eine Geschwindigkeit, keine Entfernung.|6 km pro Stunde;6 Seemeilen pro Minute;6 Meter pro Sekunde
+13|Wie weit fährst du bei 8 kn in 45 Minuten?|6 sm.|8 × 45/60 = 6.|8 sm;4,5 sm;10,7 sm
+13|Wie lange brauchst du für 15 sm bei 5 kn?|3 Stunden.|Zeit = Strecke / Geschwindigkeit.|75 Minuten;2 Stunden;5 Stunden
+13|Du legst 9 sm in 90 Minuten zurück. Wie schnell bist du im Mittel?|6 kn.|90 Minuten sind 1,5 Stunden; 9 / 1,5 = 6.
+13|Was bedeutet „Koppeln“?|Die Position aus bekanntem Ausgangsort, Kursen, Geschwindigkeiten und Zeiten fortschreiben.|Der Koppelort ist geschätzt und sollte durch Beobachtungen kontrolliert werden.
+60|Wie lang ist eine Kabellänge?|185,2 m.|Eine Kabellänge entspricht einem Zehntel einer Seemeile.|18,52 m;1.852 m;100 m
+@Seekarte & Leuchtfeuer
+5|Was bedeuten die blauen Flächen grundsätzlich auf den im Skript beschriebenen Seekarten?|Flachere Wasserbereiche; dunkleres Blau kennzeichnet dort geringere Tiefen.|Die Legende und Tiefenzahlen der konkreten Karte sind maßgebend.
+14|Warum ist eine eingezeichnete Durchfahrtshöhe für einen Segler wichtig?|Der Mast muss einschließlich Sicherheitsreserve unter dem Hindernis hindurchpassen.|Wasserstand und Bezugsniveau der Höhenangabe berücksichtigen.
+14|Warum ist ein Kreuzsymbol auf der Seekarte nicht einfach als beliebige Untiefe zu behandeln?|Es kann einen Felsen kennzeichnen; die genaue Darstellung und weitere Angaben bestimmen seine Bedeutung.|Das Skript verkürzt die Antwort im Fragenblock. Immer die Kartenlegende nutzen.
+15|Welche Gefahr kann ein eingezeichnetes Wrack auch dann darstellen, wenn nichts aus dem Wasser ragt?|Es kann die nutzbare Wassertiefe verringern oder eine Unterwassergefahr bilden.|Tiefenangaben und Sicherheitsabstand sind wichtiger als Sichtbarkeit.
+16|Welche sechs Angaben liest du typischerweise aus einer Leuchtfeuerkennung?|Farbe, Lichtcharakter, Gruppierung, Wiederkehr, Feuerhöhe und Nenntragweite.|Sekunden, Meter und Seemeilen bezeichnen verschiedene Größen.
+16|Was bedeutet die Wiederkehr eines Feuers?|Die Zeit vom Beginn eines Musters bis zum Beginn der nächsten gleichen Folge.|Es ist nicht automatisch die Dauer des einzelnen Lichtblitzes.
+16|Deute die Übungskennung „B Bl 3s 10m 6M“.|Weißes Blinkfeuer, Wiederkehr 3 Sekunden, Feuerhöhe 10 m, Nenntragweite 6 sm.|B ist hier die kroatische Farbabkürzung für Weiß.
+17|Was ist ein Sektorfeuer?|Ein Feuer, das in verschiedenen Richtungssektoren unterschiedliche Farben zeigt.|Die Karte gibt an, welcher Sektor sicher oder gefährlich ist.
+17|Ist ein weißer Sektor ohne weitere Prüfung immer sicher?|Nein; sichere Durchfahrt nur anhand der Karte und des eigenen Tiefgangs beurteilen.|Farbe allein ersetzt keine Navigation.
+17|Was unterscheidet Nenntragweite und tatsächliche Sichtbarkeit eines Feuers?|Die Nenntragweite beschreibt eine standardisierte Lichtreichweite; tatsächliche Sicht hängt auch von Wetter und Horizont ab.|Feuer- und Augenhöhe begrenzen die geografische Sichtweite.
+18|Bei einem Gleichtaktfeuer beträgt die Wiederkehr 6 s. Wie lang sind Hell- und Dunkelphase?|Jeweils 3 Sekunden.|Beim Gleichtaktfeuer sind beide Phasen gleich lang.|2 s hell und 4 s dunkel;5 s hell und 1 s dunkel;6 s hell und 6 s dunkel
+18|Was bedeutet die Kennung „Bl(2)6s“?|Zwei Lichtblitze pro Gruppe; die gesamte Folge wiederholt sich alle 6 Sekunden.|Die Klammer nennt die Gruppengröße.
+18|Was kennzeichnet ein unterbrochenes Feuer gegenüber einem Blinkfeuer?|Beim unterbrochenen Feuer überwiegt im Zyklus die helle Zeit.|Beim Blinkfeuer überwiegt die dunkle Zeit.
+18|Was bedeutet ein Wechselfeuer?|Das Licht wechselt seine Farbe.|Nicht mit einem Sektorfeuer verwechseln, dessen Farbe von der Beobachtungsrichtung abhängt.
+62|Deute „B C DBl 10s 56m 11/9M“.|Weiß-rotes Sektorfeuer mit langem Blink, 10 s Wiederkehr, 56 m Feuerhöhe, Nenntragweiten 11 und 9 sm.|Die Reihenfolge der Tragweiten entspricht der Reihenfolge der Farben.
+63|Deute „B C Z Bl(3)5s 45m 11/9/8M“.|Weiß-rot-grünes Sektorfeuer, Dreiergruppe, Wiederkehr 5 s, Feuerhöhe 45 m, Tragweiten 11/9/8 sm.|Drei Sektorfarben führen zu drei Tragweitenangaben.
+@Seezeichen
+19|Welche Farben markieren die Fahrwasserseiten in IALA A bei Einfahrt von See?|Backbord rot, Steuerbord grün.|Die Bezugsrichtung der Betonnung muss bekannt sein.|Backbord grün, Steuerbord rot;Beide gelb;Beide weiß
+19|Welche Toppzeichen gehören zu den lateralen Zeichen in IALA A?|Backbord ein Zylinder, Steuerbord ein Kegel mit Spitze oben.|Im Seitenbild erscheinen sie rechteckig bzw. dreieckig.
+19|Du läufst entlang derselben Betonnungsrichtung wieder aus dem Hafen aus. Auf welcher Schiffsseite liegt die rote Tonne?|An Steuerbord.|Die Tonnenfarbe ändert sich nicht, deine Fahrtrichtung aber schon.|An Backbord;Immer direkt voraus;Das hängt vom Wind ab
+20|Wie sieht ein Zeichen für sicheres Wasser aus?|Rot-weiße senkrechte Streifen und gegebenenfalls eine rote Kugel als Toppzeichen.|Es zeigt schiffbares Wasser rundum, beispielsweise in der Fahrwassermitte.
+20|Wie erkennst du ein Einzelgefahrenzeichen?|Schwarz mit roten waagerechten Bändern und zwei schwarzen Kugeln übereinander.|Eine örtlich begrenzte Gefahr liegt beim Zeichen; mit ausreichendem Abstand passieren.
+20|Wofür steht ein gelbes Sonderzeichen?|Für ein besonderes Gebiet oder eine besondere Einrichtung; Bedeutung in der Karte nachsehen.|Es ist nicht allgemein das Zeichen für eine neue Gefahr.
+20|Darfst du an einer Navigationsboje festmachen?|Nein.|Seezeichen dienen der Navigation und dürfen nicht als Festmacher verwendet werden.
+21|Was sagt der Name eines Kardinalzeichens aus?|Auf welcher geografischen Seite des Zeichens das sichere Wasser liegt.|Ein Nordzeichen wird nördlich passiert.
+21|Wie stehen die Kegel beim Nordzeichen?|Beide Spitzen nach oben.|Die schwarzen Kegelspitzen weisen in die Richtung des schwarzen Farbanteils.
+21|Wie stehen die Kegel beim Südzeichen?|Beide Spitzen nach unten.|Die sichere Passage liegt südlich des Zeichens.
+21|Wie stehen die Kegel beim Ostzeichen?|Die Spitzen zeigen voneinander weg.|Die Form wirkt in der Mitte breit; das sichere Wasser liegt östlich.
+21|Wie stehen die Kegel beim Westzeichen?|Die Spitzen zeigen zueinander.|Die Form ist in der Mitte schmal; das sichere Wasser liegt westlich.
+21|Welche Blitzanzahlen gehören zu Ost, Süd und West?|Ost 3; Süd 6 mit anschließendem langem Blink; West 9.|Die Zahlen entsprechen 3, 6 und 9 Uhr auf dem Zifferblatt.
+21|Welche Lichtkennung hat ein Nord-Kardinalzeichen?|Ununterbrochenes weißes Funkeln oder schnelles Funkeln.|Keine abgezählte Dreier-, Sechser- oder Neunergruppe.
+@Lichterführung
+22|Wann sind die vorgeschriebenen Navigationslichter zu führen?|Von Sonnenuntergang bis Sonnenaufgang und auch tagsüber bei verminderter Sicht.|Im Fragenblock fehlt die Ergänzung zur verminderten Sicht.
+22|Welche Farbe hat das Backbord-Seitenlicht?|Rot.|Die Seite wird immer in Blickrichtung zum Bug benannt.|Grün;Weiß;Gelb
+22|Welche Farbe hat das Steuerbord-Seitenlicht?|Grün.|Seitenlichter lassen auch die Lage des anderen Fahrzeuges erkennen.|Rot;Weiß;Gelb
+22|Wie groß ist der Leuchtsektor eines einzelnen Seitenlichts?|112,5°.|Von voraus bis 22,5° achterlicher als querab.|135°;225°;360°
+22|Wie groß ist der Leuchtsektor des Hecklichts?|135°.|Der Sektor ist nach achtern gerichtet.|112,5°;225°;90°
+22|Wie groß ist der Leuchtsektor des Topplichts?|225°.|Es leuchtet nach vorne über beide Seiten.|135°;360°;112,5°
+22|Was bedeutet „Rundumlicht“?|Ein Licht mit einem Leuchtsektor von 360°.|Die Bedeutung ergibt sich aus Farbe und Kombination.
+23|Welche Erleichterung gilt für ein Maschinenfahrzeug unter 7 m mit höchstens 7 kn Höchstgeschwindigkeit?|Ein weißes Rundumlicht; wenn möglich zusätzlich Seitenlichter.|Die Grenze betrifft die maximal mögliche Geschwindigkeit, nicht nur die momentane Fahrt.
+23|Welche Grundlichter führt ein Segelfahrzeug unter Segeln in Fahrt?|Seitenlichter und Hecklicht.|Ein Segler unter Maschinenantrieb fällt unter die Maschinenfahrzeug-Regeln.
+24|Wann darf eine Dreifarbenlaterne für einen Segler verwendet werden?|Bei Segelfahrzeugen unter 20 m in Fahrt unter Segeln, an oder nahe der Mastspitze.|Sie fasst die Seitenlichter und das Hecklicht zusammen.
+24|Sind Rot über Grün am Mast eines Segelfahrzeugs ab 20 m zwingend vorgeschrieben?|Nein, diese zusätzlichen Rundumlichter sind optional.|Sie dürfen nicht zusammen mit der kombinierten Dreifarbenlaterne verwendet werden.
+25|Welche Grundlichter führt ein 20 m langes Maschinenfahrzeug in Fahrt?|Ein weißes Topplicht, rote und grüne Seitenlichter sowie ein weißes Hecklicht.|Ein zweites Topplicht ist unter 50 m nicht vorgeschrieben.
+25|Ab welcher Länge braucht ein Maschinenfahrzeug in Fahrt zwei Topplichter?|Ab 50 m.|Das achtere Topplicht sitzt höher als das vordere.|Erst über 50 m;Ab 20 m;Ab 12 m
+26|Welche Sonderlichter kennzeichnen ein Lotsenfahrzeug im Lotsendienst?|Weiß über Rot, als Rundumlichter.|In Fahrt kommen Seiten- und Hecklicht hinzu; kein normales Topplicht.
+26|Welche Sonderlichter führt ein trawlender Fischer?|Grün über Weiß.|Seiten- und Hecklicht kommen bei Fahrt durchs Wasser hinzu.
+27|Welche Sonderlichter führt ein fischendes Fahrzeug, das nicht trawlt?|Rot über Weiß.|Die Regel betrifft Fischerei mit Fanggerät, das die Manövrierfähigkeit einschränkt.
+27|Wann muss ein nichttrawlender Fischer die Richtung seines ausgebrachten Fanggeräts zusätzlich anzeigen?|Wenn das Fanggerät mehr als 150 m waagerecht vom Fahrzeug ausragt.|Nachts ein weißes Rundumlicht, tagsüber ein Kegel mit Spitze oben in Richtung des Geräts.
+27|Welches Nachtzeichen genügt grundsätzlich einer 12-m-Jacht vor Anker?|Ein weißes Rundumlicht an gut sichtbarer Stelle.|Tagsüber führt sie einen schwarzen Ankerball.
+28|Was bedeutet „manövrierunfähig“?|Das Fahrzeug kann wegen außergewöhnlicher Umstände nicht regelgerecht manövrieren und deshalb nicht ausweichen.|Beispielsweise ein wirksamer Ruderausfall; nicht mit arbeitsbedingt behindert verwechseln.
+28|Welche zusätzlichen Tagzeichen kennzeichnen Manövrierunfähigkeit?|Zwei schwarze Bälle übereinander.|Das entsprechende Nachtzeichen ist Rot über Rot.
+28|Welche Fahrlichter kommen beim manövrierunfähigen Fahrzeug zu Rot über Rot hinzu, wenn es Fahrt durchs Wasser macht?|Seitenlichter und Hecklicht, kein Topplicht.|Ohne Fahrt durchs Wasser entfallen diese zusätzlichen Fahrlichter.
+28|Welche Zeichen führt grundsätzlich ein Fahrzeug auf Grund?|Ankerlichter und zwei rote Rundumlichter; tagsüber drei schwarze Bälle.|Für kleinere Fahrzeuge bestehen Erleichterungen. Die Kombination nicht nur als „manövrierunfähig“ deuten.
+29|Was bedeutet „manövrierbehindert“?|Die Art der Arbeit beschränkt das regelgerechte Manövrieren.|Beispiele sind Bagger-, Kabellege- oder Tonnenlegearbeiten.
+29|Welche Tagzeichen führt ein manövrierbehindertes Fahrzeug?|Ball – Rhombus – Ball senkrecht übereinander.|Nachts entspricht dem Rot – Weiß – Rot.
+29|Welche Sonderzeichen kann ein tiefgangbehindertes Maschinenfahrzeug führen?|Drei rote Rundumlichter übereinander oder tagsüber einen Zylinder.|Es ist aufgrund von Tiefgang im Verhältnis zur verfügbaren Tiefe und Breite stark eingeschränkt.
+30|Wie viele Topplichter übereinander führt ein Schleppfahrzeug bei 250 m Schleppzuglänge?|Drei.|Entscheidend ist die Strecke vom Heck des Schleppers bis zum hinteren Ende des Anhangs.|Zwei;Eines;Vier
+30|Welche Farbe hat das Schlepplicht über dem Hecklicht?|Gelb.|Es hat wie ein Hecklicht einen Sektor von 135°.|Rot;Grün;Blau
+30|Was bedeutet die Flagge Alfa an einem Tauchfahrzeug für dich?|Taucher unten: gut frei halten und langsam passieren.|Auch Tauchmarkierungen im Wasser und örtliche Mindestabstände beachten.
+@Ausweichregeln
+33|Darfst du als Kurshalter einen Zusammenstoß geschehen lassen?|Nein.|Auch der Kurshalter muss spätestens eingreifen, wenn der Ausweichpflichtige allein die Kollision nicht mehr verhindern kann.
+33|Wie soll ein Ausweichmanöver erkennbar sein?|Frühzeitig, deutlich und mit ausreichendem Abstand.|Eine Folge kaum erkennbarer kleiner Kursänderungen ist ungeeignet.
+34|Zwei Maschinenfahrzeuge begegnen sich auf entgegengesetzten Kursen mit Kollisionsgefahr. Wer weicht wohin aus?|Beide ändern den Kurs nach Steuerbord.|Sie passieren einander an der Backbordseite.|Beide nach Backbord;Nur das kleinere weicht aus;Beide halten unverändert Kurs
+34|Bei kreuzenden Kursen zweier Maschinenfahrzeuge liegt das andere an deiner Steuerbordseite. Was tust du?|Ich weiche aus und vermeide nach Möglichkeit, seinen Bug zu kreuzen.|Die Regel setzt Kollisionsgefahr voraus.
+34|Ein Segler hat Wind von Backbord, der andere von Steuerbord. Wer weicht aus?|Der Segler mit Wind von Backbord.|Das gilt bei Kollisionsgefahr und ohne übergeordnete Sondersituation.
+34|Zwei Segler haben Wind von derselben Seite. Wer weicht aus?|Der luvseitige Segler weicht dem leeseitigen aus.|Luv ist die dem Wind zugewandte Seite.
+34|Du überholst mit einem Segelboot unter Segeln ein Motorboot. Wer ist ausweichpflichtig?|Ich als Überholer.|Die Überholregel geht der allgemeinen Beziehung Segler–Motorboot vor.|Das Motorboot;Immer das größere Boot;Niemand
+34|Wann endet die Ausweichpflicht eines Überholers?|Erst wenn er endgültig vorbei und klar ist.|Eine zwischenzeitliche Änderung der Peilung hebt die Pflicht nicht auf.
+34|Was bedeutet die Aussage „Fähren haben immer Vorrang“ fachlich?|Sie ist als allgemeine KVR-Regel falsch; Situation, Manövrierbeschränkungen und örtliche Regeln entscheiden.|Fähren brauchen dennoch viel Raum; keine Behinderung erzwingen.
+33|Wie verhältst du dich als kleines Fahrzeug im engen Fahrwasser gegenüber einem Schiff, das nur dort sicher fahren kann?|Ich behindere seine Durchfahrt nicht und halte mich soweit sicher möglich an den Steuerbordrand.|Eine einfache Rangliste reicht in engen Fahrwassern nicht aus.
+34|Welcher Fahrzeugtyp ist ein Segelboot, dessen Motor zum Antrieb läuft?|Ein Maschinenfahrzeug.|Gesetzte Segel ändern diese Einordnung nicht.|Immer ein Segelfahrzeug;Ein manövrierbehindertes Fahrzeug;Ein Schleppfahrzeug
+33|Eine Peilung zu einem näherkommenden Schiff bleibt fast unverändert. Was vermutest du?|Kollisionsgefahr.|Gleichbleibende Peilung bei kleiner werdendem Abstand ist ein Warnzeichen.
+34|Darf ein Ausweichpflichtiger sein Manöver auf viele kleine Kursänderungen verteilen?|Das sollte vermieden werden; frühzeitig deutlich handeln.|Der andere muss die Änderung erkennen und ihre Wirkung beurteilen können.
+34|Du bist unsicher, ob du ein anderes Fahrzeug überholst. Wie verhältst du dich?|Ich behandle mich als Überholer und halte mich frei.|Im Zweifel die Überholsituation annehmen.
+@Schallsignale
+35|Wie lang dauern kurzer und langer Ton nach KVR?|Kurz etwa 1 s, lang 4–6 s.|Das Skript nennt für kurz 1–2 s; die KVR sprechen von ungefähr einer Sekunde.
+36|Was bedeutet ein kurzer Ton eines Maschinenfahrzeugs in Sicht?|Ich ändere meinen Kurs nach Steuerbord.|Es ist ein Manöversignal.|Ich ändere nach Backbord;Maschine rückwärts;Ich liege vor Anker
+36|Was bedeuten zwei kurze Töne in Sicht?|Ich ändere meinen Kurs nach Backbord.|Die Zahl beschreibt das angezeigte Manöver.|Nach Steuerbord;Maschine rückwärts;Seenot
+36|Was bedeuten drei kurze Töne in Sicht?|Meine Maschine arbeitet rückwärts.|Das bedeutet nicht zwingend, dass das Schiff bereits rückwärts fährt.|Ich drehe nach Backbord;Ich liege vor Anker;Ich brauche einen Lotsen
+36|Was bedeuten mindestens fünf kurze, rasch aufeinanderfolgende Töne?|Zweifel an Absicht oder ausreichender Ausweichhandlung des anderen.|Nicht nur ein pauschales „Ich habe Vorrang“.
+36|Welches Nebelsignal gibt ein Maschinenfahrzeug in Fahrt mit Fahrt durchs Wasser?|Einen langen Ton mindestens alle zwei Minuten.|Entscheidend ist die Fahrt durchs Wasser, nicht lediglich ein laufender Motor.
+36|Welches Nebelsignal gibt ein Maschinenfahrzeug in Fahrt ohne Fahrt durchs Wasser?|Zwei lange Töne im Abstand von etwa 2 s, mindestens alle zwei Minuten.|Es liegt dabei weder vor Anker noch fest noch auf Grund.
+36|Was bedeutet „zwei lang, ein kurz“ beim Überholen im engen Fahrwasser?|Ich beabsichtige, auf deiner Steuerbordseite zu überholen.|Nicht mit dem normalen Signal für eine Steuerbord-Kursänderung verwechseln.
+36|Was bedeutet „zwei lang, zwei kurz“ beim Überholen im engen Fahrwasser?|Ich beabsichtige, auf deiner Backbordseite zu überholen.|Überholen muss sicher und gegebenenfalls abgestimmt sein.
+36|Welches Signal zeigt die Zustimmung zum angekündigten Überholen im engen Fahrwasser?|Lang – kurz – lang – kurz.|Es ist eine Zustimmung zum Überholmanöver.
+35|Ab welchen Schiffslängen sind Pfeife, Glocke und zusätzlich Gong vorgeschrieben?|Pfeife ab 12 m, Glocke ab 20 m, zusätzlich Gong ab 100 m.|Die Glockenpflicht schon ab 12 m im Skript ist überholt.
+36|Welches Nebelsignal gibt grundsätzlich ein Ankerlieger mit Glocke?|Mindestens jede Minute etwa 5 Sekunden rasches Läuten.|Ab 100 m folgt achtern ein Gongsignal; für kleine Fahrzeuge gibt es Erleichterungen.
+@Seenot & Sicherheit
+37|Welche Bedeutung hat orangefarbener Rauch auf See?|Seenotsignal.|Lage beobachten, Hilfe alarmieren und ohne unvertretbare Eigengefährdung unterstützen.|Regattastart;Motorprobe;Taucher unten
+37|Was bedeutet langsames wiederholtes Heben und Senken seitlich ausgestreckter Arme?|Seenot bzw. Hilferuf.|Die Bewegung ist als Seenotsignal anerkannt.
+37|Welche Flaggenkombination bezeichnet Seenot?|November über Charlie.|Die Einzelbedeutungen „Nein“ und „Ja“ ergeben als Kombination ein eigenes Signal.|Alfa über Bravo;Quebec über Alfa;Charlie über Quebec
+37|Wie lautet das Morsezeichen SOS?|Drei kurz, drei lang, drei kurz.|Kann mit geeigneten Schall- oder Lichtmitteln gegeben werden.
+37|Welche Farbe haben die im Skript genannten Seenotfackeln?|Rot.|Orange gehört zum Rauchsignal.
+37|Warum darfst du ein echtes Seenotsignal nicht zur Begrüßung verwenden?|Es fordert Hilfe an und kann eine Rettungsaktion auslösen.|Übungen mit echten Alarmmitteln nur im dafür geregelten Rahmen.
+37|Was gehört zur persönlichen Rettungsausrüstung für jede Person?|Eine passende Rettungsweste mit geeigneter Auftriebsklasse und Signalpfeife.|Passform, Zustand und Einweisung sind ebenso wichtig wie die Anzahl.
+60|Welche Sicherheitseinweisung gibst du einer neuen Crew?|Rettungswesten und Sicherung, Mensch-über-Bord-Verhalten, Funk, Feuerlöscher, Notausgänge und wichtige Bedienung erklären.|Nicht nur zeigen, wo etwas liegt; die Benutzung erklären.
+60|Wie verringerst du bei starkem Seegang das Risiko, über Bord zu gehen?|Rettungswesten und geeignete Sicherungsleinen nutzen, unnötige Decksarbeit vermeiden und die Fahrt anpassen.|Sichere Bewegungswege und Einhakpunkte vorher besprechen.
+60|Wozu dient eine Wurfleine am Rettungsring?|Sie ermöglicht Verbindung und Heranziehen zur Bergung.|Nicht um die eigene Hand wickeln; die Verbindung kontrolliert handhaben.
+63|Darfst du bei einem elektrischen Brand eine Wasserfontäne aus einem Eimer einsetzen?|Nein; ein für die elektrische Anlage geeignetes Löschmittel verwenden.|Stromzufuhr nur gefahrlos trennen; Menschen und Fluchtweg zuerst sichern.
+@Funk & Flaggen
+38|Was ist vor dem Drücken der Sprechtaste zu tun?|Zuerst hören, ob der Kanal frei ist.|Funkverkehr nicht unnötig unterbrechen.
+38|Welche UKW-Kanäle dienen Sprechfunk-Notverkehr und DSC?|Kanal 16 für Sprache, Kanal 70 für DSC.|Auf Kanal 70 wird nicht gesprochen.|70 für Sprache und 16 für DSC;Beides auf 77;Beides auf 13
+38|Wann ist MAYDAY richtig?|Bei schwerer und unmittelbar drohender Gefahr, wenn sofortige Hilfe benötigt wird.|Nicht erst warten, bis sowohl Schiff als auch alle Personen gefährdet sind.
+38|Wann ist PAN PAN richtig?|Bei einer dringenden Meldung zur Sicherheit eines Fahrzeugs oder einer Person, ohne die Schwelle zum Seenotfall.|Die tatsächliche Dringlichkeit entscheidet, nicht die bloße Art der Panne.
+38|Wofür wird SECURITE verwendet?|Für wichtige Sicherheitsmeldungen, etwa Navigations- oder Wetterwarnungen.|Es ist kein persönlicher Dringlichkeitsruf.
+41|Ein unkontrollierter Brand bedroht euer Boot. Welche Rufart passt?|MAYDAY.|Schwere unmittelbare Gefahr und sofortiger Hilfebedarf.|SECURITE;Routineanruf;Nur PAN PAN, solange das Boot schwimmt
+42|Der Motor ist ausgefallen, ihr treibt sicher fern von Gefahren, benötigt aber dringend Unterstützung. Welche Rufart kann passen?|PAN PAN.|Wird daraus unmittelbare Gefahr, ist MAYDAY angemessen.
+43|Du entdeckst gefährliches Treibgut in einer stark befahrenen Route. Welche Meldung passt?|SECURITE.|Die Information warnt andere Verkehrsteilnehmer.|MAYDAY für dich;PAN PAN für jede Station;Kein Funk erlaubt
+41|Welche Informationen gehören in eine vollständige Seenotmeldung?|Schiffsname und Kennung, Position, Art der Notlage, benötigte Hilfe, Personenzahl und weitere nützliche Angaben.|Langsam und eindeutig sprechen; Position ist besonders wichtig.
+41|Formuliere eine Übungs-Notmeldung: ADRA, OE1234, 45°20′ N 014°25′ E, Feuer, vier Personen.|MAYDAY dreimal; THIS IS ADRA dreimal, OE1234; MAYDAY, ADRA, OE1234; POSITION 45°20′ NORTH 014°25′ EAST; FIRE ON BOARD; REQUIRE IMMEDIATE ASSISTANCE; FOUR PERSONS ON BOARD; OVER.|Nur laut üben, nicht über ein echtes Funkgerät senden. Zusätzliche Rettungsmittel und Lageinformationen nennen, wenn bekannt.
+44|Was bedeutet MAYDAY RELAY?|Die Weitergabe einer Seenotmeldung für ein anderes Fahrzeug.|Empfangene Angaben möglichst genau wiedergeben; nicht jede bestätigte Meldung ungefragt weiterleiten.
+45|Was bedeutet OVER?|Ich habe fertig gesprochen und erwarte eine Antwort.|Die Sprechtaste loslassen, damit die Gegenstation antworten kann.|Gespräch endgültig beendet;Ich erhöhe die Leistung;Notverkehr beendet
+45|Was bedeutet OUT?|Ich beende den Funkverkehr und erwarte keine Antwort.|„Over and out“ vermischt zwei unterschiedliche Bedeutungen.
+45|Wofür steht DSC korrekt?|Digital Selective Calling.|Das Skript nennt an dieser Stelle fälschlich „DCS / Distress Selective Call“.
+45|Was ist eine MMSI?|Eine neunstellige maritime Funkidentifikationsnummer.|Sie ist nicht mit dem gesprochenen Funkrufzeichen identisch.
+45|Wofür steht GMDSS?|Global Maritime Distress and Safety System.|Ein weltweites System für Seenot- und Sicherheitskommunikation.
+45|Warum muss die Position im DSC-Gerät aktuell sein?|Ein Alarm kann Position und Zeit übermitteln; veraltete Daten erschweren die Suche.|GNSS-Verbindung bzw. manuelle Eingaben kontrollieren.
+45|Ist nach dem DSC-Notalarm ein gesprochenes MAYDAY überflüssig?|Nein, anschließend den zugehörigen Sprechfunk-Notverkehr führen, soweit möglich.|Der digitale Alarm ersetzt die ausführliche Lagebeschreibung nicht.
+38|Was unterscheidet Simplex und Duplex?|Bei Simplex wird abwechselnd gesendet und empfangen; Duplex kann gleichzeitigen Austausch ermöglichen.|Die konkrete Funkanlage und Kanalart müssen dazu passen.
+38|Was bewirkt Dual Watch?|Es überwacht einen Arbeitskanal und zusätzlich einen weiteren Kanal, typischerweise Kanal 16.|Es bedeutet nicht, gleichzeitig auf zwei Kanälen zu sprechen.
+39|Warum solltest du Marina- und Wetterkanäle nicht allein aus einer alten Liste wählen?|Zuständigkeiten, Kanäle und Sendezeiten können sich ändern.|Aktuelle Angaben der Marina bzw. Küstenfunkstelle verwenden.
+45|Wie beginnst du einen Routineanruf an eine Marina?|Name der gerufenen Station, THIS IS, eigener Schiffsname bzw. Kennung, OVER.|Auf dem für diese Station vorgesehenen Kanal rufen.
+40|Welche Bedeutung hat die Signalflagge Charlie allein?|Ja.|Als Teil der Kombination November–Charlie hat sie eine andere Bedeutung.
+40|Welche Bedeutung hat November allein?|Nein.|Die Flaggenkombination NC bedeutet Seenot.
+40|Was bedeutet Quebec?|Mein Fahrzeug ist gesund; ich bitte um freie Verkehrserlaubnis.|Nicht pauschal nur „noch nicht einklariert“.
+@Wetter
+46|Wie beschreibst du die Bora?|Ein kalter, trockener, oft stark böiger Fallwind überwiegend aus Nordost bzw. Nord bis Ost.|Sie kann sehr rasch gefährliche Böen und kurze steile Wellen erzeugen.
+46|Kann Bora auch im Sommer auftreten?|Ja.|Sie ist nicht ausschließlich ein Winterwind; Winterereignisse sind oft stärker und länger.
+46|Was unterscheidet weiße und schwarze Bora im Skript?|Weiße Bora ist mit eher klarem Wetter, schwarze Bora mit tiefer Bewölkung und häufig Niederschlag verbunden.|Gute Sicht bei weißer Bora bedeutet keine geringe Windgefahr.
+46|Was ist mit „Borawalze“ gemeint?|Eine Wolkenbank bzw. Föhnwand über dem Küstengebirge, die auf Bora hinweisen kann.|Das Fehlen einer sichtbaren Walze ist keine Entwarnung.
+46|Wie beschreibst du Jugo bzw. Schirokko?|Warmer, feuchter Wind aus südlichen bis südöstlichen Richtungen.|Häufig mit Bewölkung, Regen und zunehmendem Seegang verbunden.
+46|Welche Entwicklung kann einen Jugo ankündigen?|Langsam fallender Luftdruck, steigende Feuchte und zunehmende Bewölkung.|Ein einzelnes Merkmal allein ist keine sichere Vorhersage.
+64|Baut sich der Jugo typischerweise schlagartig oder eher allmählich auf?|Eher allmählich.|Seegang und Wind können über längere Zeit zunehmen.
+46|Aus welcher Richtung kommt der sommerliche Maestral typischerweise?|Aus Nordwest.|Im Skript wird er auch Mistral genannt.|Aus Südost;Aus Ost;Aus Süden
+46|Wie verläuft ein typischer Maestral-Tag?|Er setzt am Vormittag ein, verstärkt sich nachmittags und lässt gegen Abend nach.|Das ist ein typischer Verlauf, keine tägliche Garantie.
+46|Was ist eine Nevera bzw. ein Neverin?|Ein lokales, plötzlich einsetzendes Gewitter mit starken Böen und gefährlichem Seegang.|Nicht darauf verlassen, dass jede Gewitterböe genau aus Westen kommt.
+46|Welche Beobachtungen veranlassen dich, frühzeitig Schutz vor einem Gewitter zu suchen?|Wachsende Gewitterwolken, Schwüle, Böenfront oder deutliche Wetterverschlechterung.|Vorher Schutzoptionen planen, nicht erst beim ersten starken Wind reagieren.
+47|Welche Windrichtung wird mit Tramontana verbunden?|Nördliche bis nordwestliche Richtung.|Im Skript als kalt und teils böig beschrieben.
+47|Was misst die Beaufortskala, was die Douglasskala?|Beaufort beschreibt Windstärke, Douglas den Seegang.|Windstärke und lokale Wellenhöhe sind nicht eindeutig austauschbar.
+47|Warum lässt sich aus einer Beaufortzahl keine feste Wellenhöhe für jede Bucht ableiten?|Wellen hängen auch von Winddauer, freier Anlaufstrecke, Tiefe und Küstenform ab.|Die Wellenangaben im Skript sind keine verlässliche feste Zuordnung.
+47|Was ist eine Wasserhose?|Ein Wirbel über Wasser, häufig erkennbar an einer trichterförmigen Wolkenausstülpung.|Großen Abstand halten und ihre Zugrichtung beobachten.
+48|Wann informierst du dich über das Wetter?|Vor der Abfahrt und während des Törns wiederholt.|Warnungen, Aktualisierungszeit und örtliche Entwicklung beachten.
+48|Nenne drei Wege zu aktuellen Seewetterinformationen.|Offizieller Wetterdienst, Küstenfunk und aktuelle Angaben von Hafenamt oder Marina.|Unterschiedliche Quellen können sich gegenseitig ergänzen.
+48|Aus welchen Richtungen kommen Levante, Ostra und Lebić?|Levante aus Ost, Ostra aus Süd, Lebić aus Südwest.|Windrichtungen bezeichnen die Herkunft des Windes.
+@Praxis & Motor
+49|Was ist der Schwojkreis?|Der Bereich, den das Boot beim Drehen um seinen Anker erreichen kann.|Kettenlänge, Bootslänge, Windwechsel und Nachbarboote berücksichtigen.
+49|Warum ist eine längere Ankerkette häufig günstiger für die Haltekraft?|Sie ermöglicht einen flacheren Zug am Anker.|Der nötige Umfang hängt von Grund, Wetter, Tiefe und Anlage ab.
+49|Übungsrechnung: 5 m Wassertiefe, dreifache Tiefe nach einfacher Skriptregel. Wie viel Kette?|15 m.|Dies ist nur die Skriptrechnung, keine universelle Ankerempfehlung. Höhe der Bugrolle und Bedingungen kommen in der Praxis hinzu.
+49|Welche Richtung nimmst du vor dem Ankern typischerweise ein?|Gegen Wind bzw. den maßgeblichen Strom.|Wind und Strömung bestimmen die Ausrichtung; nicht allein auf den Wind fixieren.
+49|Worauf achtest du bei der Wahl eines Ankerplatzes?|Schutz, passende Tiefe und Grund, genügend Schwojraum, keine Verbote oder Unterwasserleitungen.|Auch Wetteränderung, Abstände und Fluchtmöglichkeit berücksichtigen.
+60|Welche Böden werden im Skript als günstiger Ankergrund genannt?|Sand, Ton und Lehm.|Tatsächliche Haltekraft hängt außerdem vom Ankertyp und Eingraben ab.
+49|Warum kann Bewuchs das Ankern erschweren?|Der Anker erreicht oder durchdringt den tragfähigen Untergrund möglicherweise nicht.|Nicht aus wenig Bewegung sofort auf sicheren Halt schließen.
+49|Was ist bei einem Danforth-Anker bei drehender Zugrichtung zu beachten?|Er kann ausbrechen; erneutes zuverlässiges Eingraben ist nicht garantiert.|Ein Windwechsel erfordert Kontrolle des Halts.
+49|Welche Ankertypen werden im Skript vorgestellt?|Bruce, Danforth, Delta, Stockanker und Pflugscharanker.|Die Eignung richtet sich nach Grund und konkreter Konstruktion.
+50|Welche Kontrollen gehören vor den Motorstart?|Ölstand, Kühlung/Seeventile, Treibstoff, Batterie sowie freie Umgebung und Leerlauf kontrollieren.|Herstelleranleitung und Bootseinweisung ergänzen die Checkliste.
+60|Was beobachtest du während der Motorfahrt?|Temperatur, Öldruck, Ladeanzeige und Funktion des Kühlwassersystems.|Abweichungen ernst nehmen und Motorbetrieb entsprechend der Anleitung anpassen.
+50|Was unterscheidet Einkreis- und Zweikreiskühlung?|Einkreis: Seewasser kühlt direkt; Zweikreis: geschlossener Motorkreislauf gibt Wärme über einen Wärmetauscher an Seewasser ab.|Bei beiden seewassergekühlten Systemen muss der äußere Wasserweg funktionieren.
+64|Was droht beim Starten eines seewassergekühlten Motors mit geschlossenem Seeventil?|Ausfall der Kühlung; der Impeller kann trockenlaufen und beschädigt werden.|Danach kann auch bei geöffnetem Ventil eine Störung bestehen.
+50|Wozu dient ein Blower bei einem Benzin-Innenbordmotor?|Er entfernt brennbare Dämpfe aus dem Motorraum.|Vor dem Start nach Herstellerangabe belüften und auf Kraftstoffgeruch prüfen.
+50|Welche Grundregeln gelten beim Tanken?|Festmachen, Motor und Zündquellen aus, passenden Kraftstoff verwenden, Löschmittel bereithalten, Verschütten vermeiden.|Die konkrete Tank- und Belüftungsanleitung des Bootes beachten.
+50|Warum darf verschütteter Kraftstoff nicht einfach über Bord gespült werden?|Er gefährdet Wasser und Umwelt und kann eine Brandgefahr bilden.|Ausbreitung verhindern und den Vorfall angemessen melden.
+60|Wie wählst du eine Schleppleinenlänge bei stärkerem Seegang?|So, dass beide Boote möglichst im gleichen Wellenrhythmus laufen; häufig ein Vielfaches der Wellenlänge.|Ruckbelastungen, Festigkeit der Anschlagpunkte und sichere Verbindung beachten.
+@Knoten
+53|Wofür verwendest du einen Palstek?|Zum Herstellen eines festen Auges, das sich unter Zug nicht zuzieht.|Korrekte Form, ausreichend langes Ende und Sicherung je nach Anwendung kontrollieren.
+53|Wofür eignet sich ein doppelter Schotstek?|Zum Verbinden von Leinen, besonders bei unterschiedlicher Stärke.|Die dünnere Leine führt die Umschlingungen aus.
+53|Wofür wird ein Webeleinstek an Bord häufig benutzt?|Zum Befestigen, beispielsweise einer Fenderleine an einer Reling.|Bei wechselnder Belastung kann zusätzliche Sicherung nötig sein.
+53|Wofür dient der Klampenschlag?|Zum Belegen einer Leine auf einer Klampe.|Das Belegen muss belastbar und wieder lösbar sein.
+53|Welche Einschränkung hat der Kreuzknoten?|Er ist kein zuverlässiger allgemeiner Verbindungsknoten für sicherheitskritische oder wechselnd belastete Leinen.|Nicht als Ersatz für einen geeigneten Schotstek oder andere passende Verbindung nutzen.
+53|Praktische Aufgabe: Lege einen Palstek und prüfe ihn.|Festes Auge, korrekter Knotenverlauf, ausreichend freies Ende; unter Zug zieht sich das Auge nicht zu.|Mit einer echten Leine üben und die Form durch Kursleitung oder geübte Person kontrollieren lassen.
+53|Praktische Aufgabe: Befestige eine Fenderleine mit Webeleinstek und belege eine zweite Leine auf einer Klampe.|Beide Verbindungen korrekt legen, belasten und kontrolliert wieder lösen.|Ein Textvergleich kann die praktische Kontrolle am Tauwerk nicht ersetzen.
+@Vorschriften
+51|Welchen allgemeinen Mindestabstand hält ein Fahrzeug unter 15 m zur kroatischen Küste?|50 m.|Art. 49: Ausnahmen etwa zur sicheren Hafeneinfahrt; örtliche Regeln zusätzlich beachten.
+51|Welchen allgemeinen Küstenabstand hält ein 20 m langes Fahrzeug in Kroatien?|150 m.|Die heutige Einteilung richtet sich hier nach der Rumpflänge, nicht pauschal nach „Jacht“.
+51|Welchen allgemeinen Küstenabstand hält ein Fahrzeug ab 30 m in Kroatien?|300 m.|Die Längengrenze schließt genau 30 m ein.
+51|Wo ist Gleitfahrt nach der allgemeinen kroatischen Regel zulässig?|Nur mehr als 300 m von der Küste entfernt und außerhalb von Gleitfahrt-Verboten.|Nicht einfach „ab 300 m überall erlaubt“.
+51|Welche allgemeine Höchstgeschwindigkeit gilt in Kroatien bis 300 m zur Küste, in engen Kanälen sowie Hafen- und Ankerplatzzufahrten?|8 kn; sichere Fahrt und strengere örtliche Grenzen bleiben maßgebend.|Die pauschalen 5–7 kn des Skripts sind keine aktuelle allgemeine Regel.
+51|Wie weit muss ein 12-m-Boot von der Begrenzung eines eingerichteten Badebereichs bleiben?|Mindestens 50 m.|Gemessen zur Badebereichsbegrenzung, nicht einfach zum Strand.
+51|Wie weit muss ein 20-m-Fahrzeug von der Begrenzung eines eingerichteten Badebereichs bleiben?|Mindestens 100 m.|Die Küstenabstandsregel und die Badebereichsregel nicht verwechseln.
+51|Welcher Mindestabstand gilt grundsätzlich zu einer vorgeschriebenen Tauchmarkierung in Kroatien?|50 m, ausgenommen das Begleitfahrzeug der Taucher.|Zusätzlich langsam und vorsichtig passieren.
+52|Welche Dokumentgruppen kontrollierst du vor einer Übernahme?|Bootsregistrierung/Seetüchtigkeit, Nutzungsberechtigung, Versicherung, anerkannter Befähigungsnachweis und erforderliche Personenunterlagen.|Die konkret erforderlichen Dokumente hängen von Boot, Flagge und Reise ab.
+52|Welche zwei Telefonnummern sind für einen Seenotfall in Kroatien besonders wichtig?|195 für Seenotrettung, 112 als allgemeiner Notruf.|Über Seefunk kann zusätzlich auf Kanal 16 Hilfe gerufen werden.
+52|Warum darf eine alte Einreise- oder Gebührenliste nicht unverändert für den nächsten Törn verwendet werden?|Verfahren und Pflichten können sich ändern; Abreisegebiet, Flagge und Reiseart sind entscheidend.|Aktuelle Angaben von Hafenamt und zuständigen Behörden prüfen.
+@Ausrüstung
+54|Wovon hängt die vorgeschriebene Ausrüstung einer Jacht ab?|Unter anderem von Flagge, Zulassung, Fahrtgebiet und Nutzung.|Die österreichischen Listen im Skript gelten nicht automatisch für jede kroatische Charterjacht.
+54|Welche Grundausrüstung nennt das Skript schon für kurze Küstenfahrten?|Ankeranlage, Festmacher/Fender, Rettungsmittel, Erste Hilfe, Navigation, Wetterempfang und Signal-/Reparaturmittel.|Dies ist eine Lernübersicht, keine vollständige aktuelle Zulassungscheckliste.
+54|Welche österreichischen Fahrtbereiche nennt das Skript mit 3, 20 und 200 sm?|FB1: 3 sm, FB2: 20 sm, FB3: 200 sm; FB4: weltweit.|Die Bezeichnungen beschreiben Fahrtbereiche; sie ersetzen keine Prüfung der konkreten Berechtigung.
+54|Warum braucht jede Person eine eigene passende Rettungsweste?|Damit bei einem Notfall alle gleichzeitig geschützt werden können.|Kinder benötigen passende Kinderwesten; Erwachsenengrößen sind kein Ersatz.
+54|Wozu dienen Lifebelt, Lifeline und Einhakpunkte?|Sie sichern Personen bei Decksarbeit gegen Überbordgehen.|Die gesamte Verbindung muss geeignet und richtig benutzt sein.
+55|Wozu dient ein Radarreflektor?|Er verbessert unter geeigneten Bedingungen die Erkennbarkeit im Radar.|Er garantiert nicht, dass jedes andere Schiff dich erkennt.
+55|Wofür dient eine EPIRB?|Zur Seenotalarmierung und Identifikation bzw. Ortung über ein Satellitensystem.|Registrierung, Batterie und Bedienung gehören zur Vorbereitung.
+55|Wozu dient NAVTEX?|Zum Empfang maritimer Sicherheitsinformationen wie Warnungen und Wetterinformationen.|Es ist kein Gesprächskanal für Routineanrufe.
+55|Warum gehören Leckdichtmaterial und Werkzeug an Bord?|Damit ein Wassereinbruch begrenzt und kleinere Schäden behandelt werden können.|Lage und Verwendung vor der Abfahrt kennen.
+55|Warum kann auf einer Segeljacht ein Werkzeug zum Trennen von Wanten erforderlich sein?|Nach einem Mastbruch kann beschädigtes Rigg Boot und Crew gefährden.|Die Bedienung erfordert Vorsicht und praktische Einweisung.
+56|Warum steigt der Ausrüstungsbedarf bei größerer Entfernung von der Küste?|Hilfe ist weiter entfernt; Navigation, Kommunikation und Überleben müssen länger eigenständig funktionieren.|Zusätzliche Ausrüstung ersetzt keine entsprechende Erfahrung.
+57|Kann aus der römischen kroatischen Kategorie III direkt auf den österreichischen FB3 geschlossen werden?|Nein.|Die Einteilungen gehören zu verschiedenen Systemen und sind nicht gleichzusetzen.
